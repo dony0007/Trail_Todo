@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629962668472",
+    "project_id": "trailtodo",
+    "storage_bucket": "trailtodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629962668472:android:c218b9328d0f306f98374d",
+        "android_client_info": {
+          "package_name": "com.example.trailtodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYnuRULePYnxs1WYmDMKCeqYTfeGCMII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
